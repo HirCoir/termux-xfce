@@ -15,8 +15,8 @@ echo -e "\033[1mXFCE has been installed!\033[0m"
 clear
 #Installing apps for optimal experience
 echo -e "\033[1mInstalling 3 more apps for an optimal experience\033[0m"
-echo -e "\033[1mInstalling Firefox\033[0m"
-apt install firefox -y
+#echo -e "\033[1mInstalling Firefox\033[0m"
+#apt install firefox -y
 echo -e "\033[1mInstalling XFCE Terminal Emulator\033[0m"
 apt install xfce4-terminal -y
 echo -e "\033[1mInstalling Parole Media Player\033[0m"
